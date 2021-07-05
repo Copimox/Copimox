@@ -1,3 +1,4 @@
+![Discord Badge](https://img.shields.io/badge/Discord-Copimox%237541-lightgrey) [![Discord Server Badge](https://img.shields.io/badge/Discord-Server-informational)](https://discord.gg/4EHpN9BnYy)
 - 👋 Hi, I’m @Copimox
 - 👀 I’m interested in Video Games and Coding
 - 🌱 I’m currently learning Python
@@ -5,6 +6,5 @@
 - 📫 How to reach me: join my Discord: https://discord.gg/4EHpN9BnYy
 
 <!---
-Copimox/Copimox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This is my README.md I guess
 --->
