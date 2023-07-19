@@ -6,7 +6,7 @@
 - 👀 I’m interested in Video Games and Coding
 - 🌱 I’m currently learning Python/Adobe apps
 - 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me: `vvxrtues#4646`
+- 📫 How to reach me: `vvxrtues#4646`/`vvxrtues`
 
 <!---
 This is my README.md I guess
