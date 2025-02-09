@@ -11,7 +11,7 @@
 - 👀 I’m interested in Video Games and Coding
 - 🌱 I’m currently learning Python/Content creation
 - 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me: `Discord: vvxrtues`
+- 📫 How to reach me: `Discord: ypurpl`
 
 <!---
 This is my README.md I guess
